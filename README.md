@@ -1,1 +1,1 @@
-# this is my homework repo
+# this is my Java Object Oriented homework repo
